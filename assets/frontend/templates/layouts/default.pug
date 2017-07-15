@@ -1,0 +1,14 @@
+include ../helpers/mixins
+
+doctype html
+html(class='no-js')
+    include ../partials/head
+    body
+        //include ../../img/svg-sprite.svg
+        .page
+            block header
+            block content
+            block footer
+        block scripts
+
+

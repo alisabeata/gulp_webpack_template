@@ -1,0 +1,25 @@
+{
+  "name": "no-name",
+  "description": "",
+  "main": "Gruntfile.js",
+  "authors": [
+    "Alisa Vasilenko"
+  ],
+  "license": "ISC",
+  "moduleType": [
+    "amd"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "underscore": "^1.8.3",
+    "gsap": "^1.18.5",
+    "Swiper": "swiper#^3.3.1"
+  }
+}
